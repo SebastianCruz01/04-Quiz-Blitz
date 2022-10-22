@@ -21,3 +21,7 @@ THEN I can save my initials and score
 The following animation demonstrates the application functionality:
 
 A GIF demonstrates a functioning quiz with a timer.
+
+<div>
+  ![image](https://user-images.githubusercontent.com/110071825/197364700-9dab2bc6-f877-4941-96d6-b060d1879453.png)
+</div>
