@@ -22,6 +22,6 @@ The following animation demonstrates the application functionality:
 
 A GIF demonstrates a functioning quiz with a timer.
 
-<div>
+
 (https://user-images.githubusercontent.com/110071825/197364892-6627caa6-f660-4c37-b197-52a0d5dc6a31.png)
-</div>
+
